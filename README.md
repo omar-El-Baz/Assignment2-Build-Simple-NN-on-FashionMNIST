@@ -1,0 +1,1 @@
+# Assignment2-Build-Simple-NN-on-FashionMNIST
